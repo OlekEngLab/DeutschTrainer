@@ -1,0 +1,251 @@
+{
+  "id": "VERBEN_GEHEN_001",
+  "title": "Глагол gehen с приставками",
+  "sourceLanguage": "de",
+  "targetLanguage": "ru",
+  "words": [
+    {
+      "de": "ausgehen",
+      "ru": [
+        "выходить в свет",
+        "гулять",
+        "заканчиваться",
+        "гаснуть"
+      ],
+      "help": "Развлечения вне дома или завершение запасов/света"
+    },
+    {
+      "de": "eingehen",
+      "ru": [
+        "поступать",
+        "сокращаться",
+        "усыхать",
+        "идти на риск"
+      ],
+      "help": "Поступление почты, усадка одежды или принятие риска"
+    },
+    {
+      "de": "mitgehen",
+      "ru": [
+        "идти вместе",
+        "сопровождать",
+        "пойти с кем-то"
+      ],
+      "help": "Совместное движение с кем-либо"
+    },
+    {
+      "de": "nachgehen",
+      "ru": [
+        "отставать",
+        "проверять",
+        "заниматься"
+      ],
+      "help": "Отставание часов или расследование вопроса"
+    },
+    {
+      "de": "weggehen",
+      "ru": [
+        "уходить",
+        "уйти"
+      ],
+      "help": "Оставлять место, уходить прочь"
+    },
+    {
+      "de": "losgehen",
+      "ru": [
+        "начинаться",
+        "отправляться"
+      ],
+      "help": "Начало события или старт поездки"
+    },
+    {
+      "de": "übergehen",
+      "ru": [
+        "переходить",
+        "пропускать"
+      ],
+      "help": "Переход к новой теме или игнорирование кого-то"
+    },
+    {
+      "de": "zugehen",
+      "ru": [
+        "подходить",
+        "закрываться"
+      ],
+      "help": "Движение навстречу или закрытие двери"
+    },
+    {
+      "de": "umgehen",
+      "ru": [
+        "обходить",
+        "обходиться",
+        "обращаться"
+      ],
+      "help": "Обход препятствия или обращение с людьми/вещами"
+    }
+  ],
+  "sentences": [
+    {
+      "word": "ausgehen",
+      "level": "A1",
+      "de": "Wir gehen heute Abend aus.",
+      "ru": "Мы сегодня вечером идём гулять."
+    },
+    {
+      "word": "ausgehen",
+      "level": "A2",
+      "de": "Am Wochenende geht sie gerne mit Freunden aus.",
+      "ru": "По выходным она любит ходить куда-нибудь с друзьями."
+    },
+    {
+      "word": "ausgehen",
+      "level": "B1",
+      "de": "Plötzlich ist das Licht im ganzen Haus ausgegangen.",
+      "ru": "Внезапно свет во всём доме погас."
+    },
+    {
+      "word": "eingehen",
+      "level": "A2",
+      "de": "Das Hemd ist beim Waschen eingegangen.",
+      "ru": "Рубашка села при стирке."
+    },
+    {
+      "word": "eingehen",
+      "level": "B1",
+      "de": "Täglich gehen viele wichtige E-Mails bei uns ein.",
+      "ru": "Ежедневно к нам поступает много важных писем."
+    },
+    {
+      "word": "eingehen",
+      "level": "B2",
+      "de": "Er wollte dieses finanzielle Risiko nicht eingehen.",
+      "ru": "Он не хотел идти на этот финансовый риск."
+    },
+    {
+      "word": "mitgehen",
+      "level": "A1",
+      "de": "Ich gehe zum Supermarkt, willst du mitgehen?",
+      "ru": "Я иду в супермаркет, хочешь пойти со мной?"
+    },
+    {
+      "word": "mitgehen",
+      "level": "A2",
+      "de": "Er möchte nicht alleine ins Kino gehen, deshalb geht sein Bruder mit.",
+      "ru": "Он не хочет идти в кино один, поэтому его брат идёт с ним."
+    },
+    {
+      "word": "mitgehen",
+      "level": "B1",
+      "de": "Wenn du spazieren gehst, gehe ich gerne ein Stück mit.",
+      "ru": "Если ты идёшь гулять, я с удовольствием пройдусь с тобой немного."
+    },
+    {
+      "word": "nachgehen",
+      "level": "A2",
+      "de": "Meine Uhr geht fünf Minuten nach.",
+      "ru": "Мои часы отстают на пять минут."
+    },
+    {
+      "word": "nachgehen",
+      "level": "B1",
+      "de": "Die Polizei muss diesen Hinweisen genau nachgehen.",
+      "ru": "Полиция должна точно проверить эти указания."
+    },
+    {
+      "word": "nachgehen",
+      "level": "B2",
+      "de": "In seiner Freizeit geht er gerne seinen Hobbys nach.",
+      "ru": "В свободное время он с удовольствием уделяет время своим хобби."
+    },
+    {
+      "word": "weggehen",
+      "level": "A1",
+      "de": "Ich muss jetzt weggehen.",
+      "ru": "Мне нужно сейчас уйти."
+    },
+    {
+      "word": "weggehen",
+      "level": "A2",
+      "de": "Warum bist du gestern so früh weggegangen?",
+      "ru": "Почему ты вчера так рано ушёл?"
+    },
+    {
+      "word": "weggehen",
+      "level": "B1",
+      "de": "Dieser Fleck geht beim Waschen bestimmt nicht weg.",
+      "ru": "Это пятно при стирке точно не отстирается."
+    },
+    {
+      "word": "losgehen",
+      "level": "A1",
+      "de": "Wann geht es los?",
+      "ru": "Когда всё начинается?"
+    },
+    {
+      "word": "losgehen",
+      "level": "A2",
+      "de": "Der Film geht in zehn Minuten los.",
+      "ru": "Фильм начинается через десять минут."
+    },
+    {
+      "word": "losgehen",
+      "level": "B1",
+      "de": "Wir müssen jetzt losgehen, sonst verpassen wir den Bus.",
+      "ru": "Нам нужно выходить сейчас, иначе мы опоздаем на автобус."
+    },
+    {
+      "word": "übergehen",
+      "level": "A2",
+      "de": "Wir gehen jetzt zum nächsten Thema über.",
+      "ru": "Сейчас мы переходим к следующей теме."
+    },
+    {
+      "word": "übergehen",
+      "level": "B1",
+      "de": "Nach dem Gespräch ging die Diskussion in eine Pause über.",
+      "ru": "После разговора дискуссия перешла в перерыв."
+    },
+    {
+      "word": "übergehen",
+      "level": "B2",
+      "de": "Bei der Beförderung wurde er leider übergangen.",
+      "ru": "При повышении его, к сожалению, обошли стороной."
+    },
+    {
+      "word": "zugehen",
+      "level": "A1",
+      "de": "Die Tür geht nicht zu.",
+      "ru": "Дверь не закрывается."
+    },
+    {
+      "word": "zugehen",
+      "level": "A2",
+      "de": "Er ging freundlich auf die neuen Nachbarn zu.",
+      "ru": "Он дружелюбно подошёл к новым соседям."
+    },
+    {
+      "word": "zugehen",
+      "level": "B1",
+      "de": "Ich weiß nicht genau, wie es auf dieser Feier zugehen wird.",
+      "ru": "Я не знаю точно, как всё будет проходить на этом празднике."
+    },
+    {
+      "word": "umgehen",
+      "level": "A2",
+      "de": "Er kann sehr gut mit Kindern umgehen.",
+      "ru": "Он умеет отлично обращаться с детьми."
+    },
+    {
+      "word": "umgehen",
+      "level": "B1",
+      "de": "Man muss lernen, mit Stress richtig umzugehen.",
+      "ru": "Нужно научиться правильно справляться со стрессом."
+    },
+    {
+      "word": "umgehen",
+      "level": "B2",
+      "de": "Wir haben versucht, das Problem vorsichtig zu umgehen.",
+      "ru": "Мы попытались осторожно обойти эту проблему."
+    }
+  ]
+}

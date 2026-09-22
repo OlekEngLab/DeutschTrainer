@@ -1,0 +1,248 @@
+{
+  "id": "VERBEN_ARBEITEN_001",
+  "title": "Глагол arbeiten с приставками",
+  "sourceLanguage": "de",
+  "targetLanguage": "ru",
+  "words": [
+    {
+      "de": "ausarbeiten",
+      "ru": [
+        "разрабатывать",
+        "составлять",
+        "дорабатывать"
+      ],
+      "help": "Детальная разработка плана или концепции"
+    },
+    {
+      "de": "bearbeiten",
+      "ru": [
+        "обрабатывать",
+        "редактировать"
+      ],
+      "help": "Обработка документа, файла или запроса"
+    },
+    {
+      "de": "erarbeiten",
+      "ru": [
+        "зарабатывать",
+        "осваивать",
+        "вырабатывать"
+      ],
+      "help": "Получение результатов своим трудом"
+    },
+    {
+      "de": "mitarbeiten",
+      "ru": [
+        "сотрудничать",
+        "работать вместе"
+      ],
+      "help": "Совместная работа в команде или проекте"
+    },
+    {
+      "de": "überarbeiten",
+      "ru": [
+        "перерабатывать",
+        "переутомляться"
+      ],
+      "help": "Пересмотр текста или чрезмерная работа до усталости"
+    },
+    {
+      "de": "zusammenarbeiten",
+      "ru": [
+        "сотрудничать",
+        "работать сообща"
+      ],
+      "help": "Тесное партнерство или коллективный труд"
+    },
+    {
+      "de": "einarbeiten",
+      "ru": [
+        "вводить в курс дела",
+        "осваиваться на работе"
+      ],
+      "help": "Обучение нового сотрудника на месте"
+    },
+    {
+      "de": "verarbeiten",
+      "ru": [
+        "перерабатывать",
+        "усваивать",
+        "осмысливать"
+      ],
+      "help": "Переработка сырья или эмоциональное осмысление"
+    },
+    {
+      "de": "aufarbeiten",
+      "ru": [
+        "ликвидировать задолженность",
+        "восстанавливать",
+        "осмыслять"
+      ],
+      "help": "Разбор накопившихся дел или прошлых ошибок"
+    }
+  ],
+  "sentences": [
+    {
+      "word": "ausarbeiten",
+      "level": "A2",
+      "de": "Wir müssen einen neuen Plan ausarbeiten.",
+      "ru": "Нам нужно разработать новый план."
+    },
+    {
+      "word": "ausarbeiten",
+      "level": "B1",
+      "de": "Der Student arbeitet seine Präsentation sorgfältig aus.",
+      "ru": "Студент тщательно разрабатывает свою презентацию."
+    },
+    {
+      "word": "ausarbeiten",
+      "level": "B2",
+      "de": "Das Experten-Team hat ein umfassendes Konzept ausgearbeitet.",
+      "ru": "Команда экспертов разработала всеобъемлющую концепцию."
+    },
+    {
+      "word": "bearbeiten",
+      "level": "A1",
+      "de": "Ich bearbeite meine E-Mails.",
+      "ru": "Я обрабатываю свои электронные письма."
+    },
+    {
+      "word": "bearbeiten",
+      "level": "A2",
+      "de": "Kannst du das Dokument bitte schnell bearbeiten?",
+      "ru": "Можешь, пожалуйста, быстро отредактировать этот документ?"
+    },
+    {
+      "word": "bearbeiten",
+      "level": "B1",
+      "de": "Die Anträge werden innerhalb von zwei Wochen bearbeitet.",
+      "ru": "Заявления обрабатываются в течение двух недель."
+    },
+    {
+      "word": "erarbeiten",
+      "level": "A2",
+      "de": "Die Schüler erarbeiten die Antworten in Gruppen.",
+      "ru": "Ученики прорабатывают ответы в группах."
+    },
+    {
+      "word": "erarbeiten",
+      "level": "B1",
+      "de": "Wir haben uns eine gute Strategie erarbeitet.",
+      "ru": "Мы выработали для себя хорошую стратегию."
+    },
+    {
+      "word": "erarbeiten",
+      "level": "B2",
+      "de": "Er hat sich seinen Erfolg durch jahrelange harte Arbeit erarbeitet.",
+      "ru": "Он добился своего успеха многолетним упорным трудом."
+    },
+    {
+      "word": "mitarbeiten",
+      "level": "A1",
+      "de": "Er arbeitet gerne im Team mit.",
+      "ru": "Он с удовольствием работает в команде."
+    },
+    {
+      "word": "mitarbeiten",
+      "level": "A2",
+      "de": "Viele Freiwillige arbeiten an diesem Projekt mit.",
+      "ru": "Многие волонтёры участвуют в работе над этим проектом."
+    },
+    {
+      "word": "mitarbeiten",
+      "level": "B1",
+      "de": "Wer an der neuen Initiative mitarbeiten möchte, kann sich melden.",
+      "ru": "Кто хочет поучаствовать в новой инициативе, может подать заявку."
+    },
+    {
+      "word": "überarbeiten",
+      "level": "A2",
+      "de": "Ich muss diesen Text noch einmal überarbeiten.",
+      "ru": "Мне нужно ещё раз переработать этот текст."
+    },
+    {
+      "word": "überarbeiten",
+      "level": "B1",
+      "de": "Wenn du nicht aufpasst, wirst du dich überarbeiten.",
+      "ru": "Если ты не будешь осторожен, ты переутомишься от работы."
+    },
+    {
+      "word": "überarbeiten",
+      "level": "B2",
+      "de": "Der Verlag hat die Auflage gründlich überarbeitet.",
+      "ru": "Издательство основательно переработало это издание."
+    },
+    {
+      "word": "zusammenarbeiten",
+      "level": "A1",
+      "de": "Wir arbeiten gut zusammen.",
+      "ru": "Мы отлично работаем вместе."
+    },
+    {
+      "word": "zusammenarbeiten",
+      "level": "A2",
+      "de": "Beide Firmen wollen in Zukunft zusammenarbeiten.",
+      "ru": "Обе компании хотят сотрудничать в будущем."
+    },
+    {
+      "word": "zusammenarbeiten",
+      "level": "B1",
+      "de": "Um das Ziel zu erreichen, müssen alle Abteilungen eng zusammenarbeiten.",
+      "ru": "Чтобы достичь цели, все отделы должны тесно сотрудничать."
+    },
+    {
+      "word": "einarbeiten",
+      "level": "A2",
+      "de": "Die Kollegin arbeitet den neuen Mitarbeiter ein.",
+      "ru": "Коллега вводит нового сотрудника в курс дела."
+    },
+    {
+      "word": "einarbeiten",
+      "level": "B1",
+      "de": "Ich muss mich zuerst in das neue Thema einarbeiten.",
+      "ru": "Мне нужно сначала освоиться с новой темой."
+    },
+    {
+      "word": "einarbeiten",
+      "level": "B2",
+      "de": "Die Einarbeitung dauert gewöhnlich zwei Monate.",
+      "ru": "Введение в должность обычно занимает два месяца."
+    },
+    {
+      "word": "verarbeiten",
+      "level": "A2",
+      "de": "Die Fabrik verarbeitet das Holz.",
+      "ru": "Фабрика перерабатывает древесину."
+    },
+    {
+      "word": "verarbeiten",
+      "level": "B1",
+      "de": "Er braucht Zeit, um die Nachricht zu verarbeiten.",
+      "ru": "Ему нужно время, чтобы осмыслить новость."
+    },
+    {
+      "word": "verarbeiten",
+      "level": "B2",
+      "de": "Das Gehirn verarbeitet im Schlaf viele Informationen.",
+      "ru": "Мозг перерабатывает во сне много информации."
+    },
+    {
+      "word": "aufarbeiten",
+      "level": "A2",
+      "de": "Ich muss noch alte Dokumente aufarbeiten.",
+      "ru": "Мне нужно ещё разобрать старые документы."
+    },
+    {
+      "word": "aufarbeiten",
+      "level": "B1",
+      "de": "Wir müssen die verpassten Aufgaben schnell aufarbeiten.",
+      "ru": "Нам нужно быстро нагнать пропущенные задания."
+    },
+    {
+      "word": "aufarbeiten",
+      "level": "B2",
+      "de": "Die Gesellschaft muss die historische Vergangenheit gründlich aufarbeiten.",
+      "ru": "Общество должно основательно осмыслить своё историческое прошлое."
+    }
+  ]
+}

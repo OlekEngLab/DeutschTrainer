@@ -1,0 +1,251 @@
+{
+  "id": "VERBEN_MACHEN_001",
+  "title": "Глагол machen с приставками",
+  "sourceLanguage": "de",
+  "targetLanguage": "ru",
+  "words": [
+    {
+      "de": "anmachen",
+      "ru": [
+        "включать",
+        "включить",
+        "зажигать"
+      ],
+      "help": "Включение прибора, света или огня"
+    },
+    {
+      "de": "ausmachen",
+      "ru": [
+        "выключать",
+        "выключить",
+        "тушить",
+        "договариваться"
+      ],
+      "help": "Выключение прибора или договоренность о встрече"
+    },
+    {
+      "de": "aufmachen",
+      "ru": [
+        "открывать",
+        "открыть"
+      ],
+      "help": "Открытие двери, окна, замка или бизнес-дела"
+    },
+    {
+      "de": "zumachen",
+      "ru": [
+        "закрывать",
+        "закрыть"
+      ],
+      "help": "Закрытие двери, окна, магазина или книги"
+    },
+    {
+      "de": "mitmachen",
+      "ru": [
+        "участвовать",
+        "принимать участие",
+        "присоединяться"
+      ],
+      "help": "Участие в совместном деле или игре"
+    },
+    {
+      "de": "nachmachen",
+      "ru": [
+        "подражать",
+        "копировать",
+        "подделывать"
+      ],
+      "help": "Копирование чужих действий или подделка"
+    },
+    {
+      "de": "abmachen",
+      "ru": [
+        "договариваться",
+        "договориться",
+        "снимать"
+      ],
+      "help": "Согласование условий или удаление наклейки"
+    },
+    {
+      "de": "saubermachen",
+      "ru": [
+        "убирать",
+        "убираться",
+        "чистить"
+      ],
+      "help": "Наведение чистоты и порядка"
+    },
+    {
+      "de": "weitermachen",
+      "ru": [
+        "продолжать",
+        "продолжить"
+      ],
+      "help": "Продолжение начатого действия"
+    }
+  ],
+  "sentences": [
+    {
+      "word": "anmachen",
+      "level": "A1",
+      "de": "Mach bitte das Licht an!",
+      "ru": "Включи, пожалуйста, свет!"
+    },
+    {
+      "word": "anmachen",
+      "level": "A2",
+      "de": "Kannst du das Radio anmachen?",
+      "ru": "Ты можешь включить радио?"
+    },
+    {
+      "word": "anmachen",
+      "level": "B1",
+      "de": "Sobald er nach Hause kommt, macht er den Fernseher an.",
+      "ru": "Как только он приходит домой, он включает телевизор."
+    },
+    {
+      "word": "ausmachen",
+      "level": "A1",
+      "de": "Bitte machen Sie den Fernseher aus.",
+      "ru": "Пожалуйста, выключите телевизор."
+    },
+    {
+      "word": "ausmachen",
+      "level": "A2",
+      "de": "Wir müssen einen Termin ausmachen.",
+      "ru": "Нам нужно договориться о встрече."
+    },
+    {
+      "word": "ausmachen",
+      "level": "B1",
+      "de": "Vergiss nicht, das Licht auszumachen, bevor du gehst.",
+      "ru": "Не забудь выключить свет перед уходом."
+    },
+    {
+      "word": "aufmachen",
+      "level": "A1",
+      "de": "Er macht die Tür auf.",
+      "ru": "Он открывает дверь."
+    },
+    {
+      "word": "aufmachen",
+      "level": "A2",
+      "de": "Kannst du bitte das Fenster aufmachen?",
+      "ru": "Можешь, пожалуйста, открыть окно?"
+    },
+    {
+      "word": "aufmachen",
+      "level": "B1",
+      "de": "Sie wollen nächsten Monat ein neues Restaurant aufmachen.",
+      "ru": "В следующем месяце они хотят открыть новый ресторан."
+    },
+    {
+      "word": "zumachen",
+      "level": "A1",
+      "de": "Mach das Buch zu!",
+      "ru": "Закрой книгу!"
+    },
+    {
+      "word": "zumachen",
+      "level": "A2",
+      "de": "Die Geschäfte machen um acht Uhr zu.",
+      "ru": "Магазины закрываются в восемь часов."
+    },
+    {
+      "word": "zumachen",
+      "level": "B1",
+      "de": "Es ist kalt draußen, deshalb solltest du die Tür zumachen.",
+      "ru": "На улице холодно, поэтому тебе следует закрыть дверь."
+    },
+    {
+      "word": "mitmachen",
+      "level": "A1",
+      "de": "Ich mache gerne mit.",
+      "ru": "Я с удовольствием присоединюсь."
+    },
+    {
+      "word": "mitmachen",
+      "level": "A2",
+      "de": "Möchtest du bei diesem Spiel mitmachen?",
+      "ru": "Хочешь поучаствовать в этой игре?"
+    },
+    {
+      "word": "mitmachen",
+      "level": "B1",
+      "de": "Alle Schüler haben aktiv am Projekt mitgemacht.",
+      "ru": "Все ученики активно участвовали в проекте."
+    },
+    {
+      "word": "nachmachen",
+      "level": "A1",
+      "de": "Kinder machen alles nach.",
+      "ru": "Дети всё повторяют."
+    },
+    {
+      "word": "nachmachen",
+      "level": "A2",
+      "de": "Du solltest dieses Verhalten nicht nachmachen.",
+      "ru": "Тебе не следует копировать такое поведение."
+    },
+    {
+      "word": "nachmachen",
+      "level": "B1",
+      "de": "Er kann die Stimme seines Lehrers perfekt nachmachen.",
+      "ru": "Он может идеально имитировать голос своего учителя."
+    },
+    {
+      "word": "abmachen",
+      "level": "A1",
+      "de": "Wir machen eine Zeit ab.",
+      "ru": "Мы договариваемся о времени."
+    },
+    {
+      "word": "abmachen",
+      "level": "A2",
+      "de": "Was habt ihr für morgen abgemacht?",
+      "ru": "О чём вы договорились на завтра?"
+    },
+    {
+      "word": "abmachen",
+      "level": "B1",
+      "de": "Du musst den Aufkleber vorsichtig von der Schachtel abmachen.",
+      "ru": "Тебе нужно осторожно снять наклейку с коробки."
+    },
+    {
+      "word": "saubermachen",
+      "level": "A1",
+      "de": "Ich mache das Zimmer sauber.",
+      "ru": "Я убираю комнату."
+    },
+    {
+      "word": "saubermachen",
+      "level": "A2",
+      "de": "Am Samstag müssen wir die Küche saubermachen.",
+      "ru": "В субботу нам нужно убрать кухню."
+    },
+    {
+      "word": "saubermachen",
+      "level": "B1",
+      "de": "Nach der Party haben alle zusammen das Haus sauber gemacht.",
+      "ru": "После вечеринки все вместе убрали дом."
+    },
+    {
+      "word": "weitermachen",
+      "level": "A1",
+      "de": "Wir machen jetzt weiter.",
+      "ru": "Мы продолжаем сейчас."
+    },
+    {
+      "word": "weitermachen",
+      "level": "A2",
+      "de": "Nach einer kurzen Pause machen wir weiter.",
+      "ru": "После короткого перерыва мы продолжим."
+    },
+    {
+      "word": "weitermachen",
+      "level": "B1",
+      "de": "Obwohl er müde war, wollte er mit der Arbeit weitermachen.",
+      "ru": "Хотя он устал, он хотел продолжить работу."
+    }
+  ]
+}
